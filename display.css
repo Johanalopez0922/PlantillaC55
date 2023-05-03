@@ -1,0 +1,22 @@
+
+
+.caja1{
+    height: 300px;
+    width: 300px;
+    border: solid 5px red; 
+    
+}
+
+.caja2{
+    height: 300px;
+    width: 300px;
+    border: solid 5px orange; 
+    
+}
+
+.caja3{
+    height: 300px;
+    width: 300px;
+    border: solid 5px purple; 
+    
+}

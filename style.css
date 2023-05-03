@@ -1,7 +1,32 @@
-html, body {
+html{
   margin: 0;
-  height: 100%;
- 
+  height: 100%; 
+  font-family: 'Libre Franklin';
 }
 
+body{
+ background-color: antiquewhite;
+}
 
+h1{
+  font-size: 30px;
+}
+
+.container{
+  margin: 10px;
+  border: 3px solid black;
+  
+}
+p{
+  font-size: 15px;
+}
+
+.socialMedia{
+  list-style: none;
+
+}
+
+.socialMedia img{
+  width: 70px;
+  height: 70px;
+}
