@@ -1,22 +1,4 @@
-
-
-.caja1{
-    height: 300px;
-    width: 300px;
-    border: solid 5px red; 
+html{
     
 }
 
-.caja2{
-    height: 300px;
-    width: 300px;
-    border: solid 5px orange; 
-    
-}
-
-.caja3{
-    height: 300px;
-    width: 300px;
-    border: solid 5px purple; 
-    
-}
